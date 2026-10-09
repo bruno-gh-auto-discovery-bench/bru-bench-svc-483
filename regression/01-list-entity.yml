@@ -1,0 +1,6 @@
+info:
+  name: list 1
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/identity-regression-2/1
